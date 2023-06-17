@@ -10,13 +10,13 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1>
-        Hello Gatsby
+        AF Hello Gatsby
       </h1>
-      <p>AF aded this.</p>
+      <p>AF made this page.</p>
     </main>
   )
 }
 
 export default IndexPage
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => <title>AF Hello Gatsby</title>
