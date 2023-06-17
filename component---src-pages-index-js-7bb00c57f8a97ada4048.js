@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhello_gatsby=self.webpackChunkhello_gatsby||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return s}});var n=l(7294);const a={color:"#232129",padding:24,fontFamily:"Roboto, sans-serif, serif"};t.default=()=>n.createElement("main",{style:a},n.createElement("h1",null,"Hello Gatsby"),n.createElement("p",null,"AF aded this."));const s=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-7bb00c57f8a97ada4048.js.map
