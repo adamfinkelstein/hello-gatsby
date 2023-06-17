@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkhello_gatsby=self.webpackChunkhello_gatsby||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return s}});var n=l(7294);const a={color:"#232129",padding:24,fontFamily:"Roboto, sans-serif, serif"};t.default=()=>n.createElement("main",{style:a},n.createElement("h1",null,"AF Hello Gatsby"),n.createElement("p",null,"AF made this page."));const s=()=>n.createElement("title",null,"AF Hello Gatsby")}}]);
-//# sourceMappingURL=component---src-pages-index-js-6db2053b9c94c2969bb6.js.map
